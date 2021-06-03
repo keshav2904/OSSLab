@@ -1,3 +1,5 @@
+# Write a function “duplicate” to find all duplicates in the list.
+
 def duplicate(l):
     l2 = []
     duplicates = []
